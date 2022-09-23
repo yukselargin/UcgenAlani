@@ -7,9 +7,9 @@ public class Alan {
 
         System.out.print("İlk kenarı giriniz:");
         a= kenar.nextInt();
-        System.out.print("İlk kenarı giriniz:");
+        System.out.print("İkinci kenarı giriniz:");
         b= kenar.nextInt();
-        System.out.print("İlk kenarı giriniz:");
+        System.out.print("Üçüncü kenarı giriniz:");
         c= kenar.nextInt();
 
         u= (a+b+c)/2;
